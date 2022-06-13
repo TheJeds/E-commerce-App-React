@@ -1,5 +1,5 @@
 import React, { useState} from 'react';
-import {sliderItems} from '../data'
+import { sliderItems } from '../data'
 
 function Slider() {
 

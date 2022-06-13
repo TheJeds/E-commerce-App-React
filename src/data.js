@@ -32,17 +32,17 @@ export const sliderItems = [
 export const categories = [
     {
         id: 1,
-        img: '',
+        img: 'https://m.media-amazon.com/images/I/61E3Cz3DP6L._AC_SX385_.jpg',
         title: 'SHIRT STYLE!',
     },
     {
         id: 2,
-        img: '',
+        img: 'https://media.glamour.com/photos/61b851588d0c8919039bb21a/3:4/w_1500,h_2000,c_limit/cozy%20loungewear%20sets.jpg',
         title: 'LOUNGEWEAR LOVE',
     },
     {
         id: 3,
-        img: '',
+        img: 'https://m.media-amazon.com/images/I/71E6VVV3qnL._AC_UX342_.jpg',
         title: 'LIGHT JACKETS',
     },
 ]
