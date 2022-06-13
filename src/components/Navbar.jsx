@@ -8,7 +8,7 @@ const Navbar = () => {
                     <span className='text-sm cursor-pointer'>EN</span>
                     <div className='m-6 p-1 border-solid border-[0.5px] border-gray-200 flex items-center'>
                         <input className='border-none' type='text' />
-                        <i class='fa-solid fa-magnifying-glass text-gray-400 text-base'></i>
+                        <i className='fa-solid fa-magnifying-glass text-gray-400 text-base'></i>
                     </div>
                 </div>
                 <div id='center' className='flex-1 text-center'>
@@ -22,7 +22,7 @@ const Navbar = () => {
                         SIGN IN
                     </div>
                     <div className='text-sm cursor-pointer ml-6'>
-                        <i class="fa-solid fa-cart-shopping"></i>
+                        <i className="fa-solid fa-cart-shopping"></i>
                     </div>
                 </div>
             </div>
