@@ -46,3 +46,38 @@ export const categories = [
         title: 'LIGHT JACKETS',
     },
 ]
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+    {
+        id: 2,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+    {
+        id: 3,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+    {
+        id: 4,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+    {
+        id: 5,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+    {
+        id: 6,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+    {
+        id: 7,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+    {
+        id: 8,
+        img: 'https://imagenpng.com/wp-content/uploads/img/jacket_PNG8058.png',
+    },
+]
